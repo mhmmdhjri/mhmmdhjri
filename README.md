@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhmmdhjri
 - 👀 I’m interested in software enginering
 - 🌱 I’m currently learning in idn
-- 💞️ I’m looking to collaborate on spacex
+- 💞️ I’m looking to collaborate on Apple
 - 📫 How to reach me ...
 
 <!---
