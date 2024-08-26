@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmmdhjri&label=Profile%20views&color=0e75b6&style=flat" alt="mhmmdhjri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LaluIman" alt="mhmmdhjri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emRival" alt="mhmmdhjri" /></a> </p>
 
 - 🏫 I’m currently Studying on **I’m currently Studying in IDN**
 
